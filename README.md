@@ -5,6 +5,7 @@ This project will involve the development of an HTML document styled with CSS
 to resemble the layout and design of the Netflix homepage. The project will 
 utilize HTML for structuring the content and CSS for styling the elements to 
 achieve the desired appearance. 
+
 Project Components 
 HTML Document: The project will include an HTML document containing the 
 necessary markup for structuring the Netflix landing page. This document will 
