@@ -1,4 +1,5 @@
 Overview 
+
 The "Clone Netflix" project aims to create a replica of the Netflix landing page. 
 This project will involve the development of an HTML document styled with CSS 
 to resemble the layout and design of the Netflix homepage. The project will 
