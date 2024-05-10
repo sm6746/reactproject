@@ -46,7 +46,9 @@ Resources
 Text editor (e.g., Visual Studio Code, Sublime Text) 
 Web browser for testing (e.g., Google Chrome, Mozilla Firefox) 
 Internet access for research and reference 
+
 Conclusion 
+
 The "Clone Netflix" project aims to replicate the layout and design of the Netflix 
 landing page using HTML and CSS. By following the outlined plan and timeline, 
 we will create a visually appealing and responsive webpage that closely 
